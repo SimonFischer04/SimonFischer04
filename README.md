@@ -7,4 +7,4 @@ Current Projects:
 - ⌨️ [ControlPage](https://gitlab.fischerserver.eu/controlpage): an open-source macro tool.
 
 ![Simon's github stats](https://github-readme-stats.vercel.app/api?username=SimonFischer04)
-[![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonFischer04)](https://github.com/SimonFischer04/github-readme-stats)
+![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonFischer04)
