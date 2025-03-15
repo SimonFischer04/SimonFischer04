@@ -1,6 +1,6 @@
 # Simon Fischer's README
 
-Hi, I'm Simon, a Software Engineer from Austria. I use a lot of my free time to develop personal (open-source) projects or contribute to other ones. Find them on [GitLab](https://gitlab.fischerserver.eu/SimonFischer04). More will follow hopefully soon.
+Hi, I'm Simon, a part time software engineer, part time student from Austria. I use a lot of my free time to develop personal (open-source) projects or contribute to other ones. Find them on [GitLab](https://gitlab.fischerserver.eu/SimonFischer04). More will follow hopefully soon.
 
 Current Projects:
 
@@ -14,6 +14,7 @@ Contributions:
 - [nodecg](https://github.com/nodecg)
     - some fixes for the [generator](https://github.com/nodecg/generator-nodecg)
     - more planned (soon tm)
+- ...
 
 ![Simon's github stats](https://github-readme-stats.vercel.app/api?username=SimonFischer04)
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonFischer04)
